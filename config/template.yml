@@ -1,5 +1,5 @@
-entity_name: "wandb_entity_name"
-project_name: "wandb_project_name"
+entity_name: "christinehc"
+project_name: "massformer"
 run_name: "template"
 
 data:
